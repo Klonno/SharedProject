@@ -5,7 +5,7 @@ using System.Text;
 namespace SharedProject
 {
     // POCO (simple) object
-    class WeatherObservation
+    public class WeatherObservation
     {
         public Guid WeatherStationId { get; set; }
         public DateTime ObservationDateTime { get; set; }
