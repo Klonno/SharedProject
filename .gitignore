@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SharedProject/DesignTimeBuild
+/.vs/SharedProject/v16/Server/sqlite3
+/.vs/SharedProject/v16
+/.vs
+/UnitTestSharedProject/bin/Debug/netcoreapp2.2
+/UnitTestSharedProject/obj
